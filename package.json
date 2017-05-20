@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/dmitrykurmanov/syntodo-server#readme",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "socket.io": "^2.0.1"
   }
 }
